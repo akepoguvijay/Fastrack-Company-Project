@@ -1,0 +1,53 @@
+body
+{
+    background-color: wheat;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Special Elite', cursive;
+}
+
+h3
+{
+    background-image: url("Fastrack_Logo.png");
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    font-size: 20px;
+    background-color: white;
+    color: rgb(0, 234, 255);
+    margin: 20px;
+    padding: 10px;
+}
+
+h2{
+    font-size: 20px;
+    background-color: white;
+    color: navy;
+    margin: 20px;
+    padding: 10px;
+}
+
+h4{
+    font-size: 20px;
+    background-color: white;
+    color: rgb(249, 0, 120);
+    margin: 20px;
+    padding: 10px;
+}
+
+h5{
+    font-size: 20px;
+    background-color: white;
+    color: rgb(255, 0, 187);
+    margin: 20px;
+    padding: 10px;
+}
+
+
+b{
+    color: black;
+}
+
